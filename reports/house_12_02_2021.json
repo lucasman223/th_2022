@@ -1,0 +1,215 @@
+[
+  {
+    "prefix": "Hon.",
+    "first_name": "Donald Sternoff Honorable",
+    "last_name": "Beyer",
+    "suffix": "Jr",
+    "name": "Hon. Donald Sternoff Honorable Beyer",
+    "filing_date": "12/02/2021",
+    "document_id": "20019895",
+    "year": 2021,
+    "district": "VA08",
+    "source_ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019895.pdf",
+    "transactions": [
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-09",
+        "ticker": "TDDXX",
+        "description": "BLF FedFund",
+        "transaction_type": "purchase",
+        "amount": "$15,001 - $50,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-02",
+        "ticker": "TDDXX",
+        "description": "BLF FedFund",
+        "transaction_type": "sale_full",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-01",
+        "ticker": "TDDXX",
+        "description": "BLF FedFund",
+        "transaction_type": "purchase",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-26",
+        "ticker": "TDDXX",
+        "description": "BLF FedFund",
+        "transaction_type": "purchase",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-02",
+        "ticker": "DAIUF",
+        "description": "Daifuku Co Ltd Ordinary Shares",
+        "transaction_type": "sale_full",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-26",
+        "ticker": "NVDA",
+        "description": "NVIDIA Corporation",
+        "transaction_type": "sale_full",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-26",
+        "ticker": "SQ",
+        "description": "Square Inc Class A",
+        "transaction_type": "sale_full",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-01",
+        "ticker": "SQ",
+        "description": "Square Inc Class A",
+        "transaction_type": "sale_full",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-26",
+        "ticker": "TDOC",
+        "description": "Teladoc Health Inc",
+        "transaction_type": "sale_full",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-26",
+        "ticker": "TJX",
+        "description": "TJX Companies Inc",
+        "transaction_type": "purchase",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-01",
+        "ticker": "V",
+        "description": "Visa Inc",
+        "transaction_type": "sale_full",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      }
+    ],
+    "transcribed_by": "Timothy Carambat"
+  },
+  {
+    "prefix": "Hon.",
+    "first_name": "Suzan K.",
+    "last_name": "DelBene",
+    "suffix": null,
+    "name": "Hon. Suzan K. DelBene",
+    "filing_date": "12/02/2021",
+    "document_id": "20019922",
+    "year": 2021,
+    "district": "WA01",
+    "source_ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019922.pdf",
+    "transactions": [
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-15",
+        "ticker": "--",
+        "description": "Colorado Health Fac 5% Hosp Health Due 08/01/2049",
+        "transaction_type": "purchase",
+        "amount": "$250,001 - $500,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-29",
+        "ticker": "--",
+        "description": "Maryland St Dept TR 5% Comb Tax Due 10/01/2026",
+        "transaction_type": "purchase",
+        "amount": "$15,001 - $50,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-30",
+        "ticker": "--",
+        "description": "New York ST Dorm Auth Sales Tax Rev 5% Due 03/15/2025",
+        "transaction_type": "purchase",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      },
+      {
+        "owner": "joint",
+        "transaction_date": "2021-11-23",
+        "ticker": "--",
+        "description": "Round Rock Tex Indept SCH Dist 5% Due 08/01/2025",
+        "transaction_type": "purchase",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      }
+    ],
+    "transcribed_by": "Timothy Carambat"
+  },
+  {
+    "prefix": "Hon.",
+    "first_name": "Christopher L.",
+    "last_name": "Jacobs",
+    "suffix": null,
+    "name": "Hon. Christopher L. Jacobs",
+    "filing_date": "12/02/2021",
+    "document_id": "20019805",
+    "year": 2021,
+    "district": "NY27",
+    "source_ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019805.pdf",
+    "transactions": [
+      {
+        "owner": null,
+        "transaction_date": "2021-10-20",
+        "ticker": "--",
+        "description": "Central Puget WA 5% Due 11/01/2031",
+        "transaction_type": "purchase",
+        "amount": "$15,001 - $50,000",
+        "cap_gains_over_200": false
+      }
+    ],
+    "transcribed_by": "Timothy Carambat"
+  },
+  {
+    "prefix": "Hon.",
+    "first_name": "Ed",
+    "last_name": "Perlmutter",
+    "suffix": null,
+    "name": "Hon. Ed Perlmutter",
+    "filing_date": "12/02/2021",
+    "document_id": "20019941",
+    "year": 2021,
+    "district": "CO07",
+    "source_ptr_link": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019941.pdf",
+    "transactions": [
+      {
+        "owner": "self",
+        "transaction_date": "2021-11-02",
+        "ticker": "F",
+        "description": "Ford Motor Company",
+        "transaction_type": "purchase",
+        "amount": "$1,001 - $15,000",
+        "cap_gains_over_200": false
+      }
+    ],
+    "transcribed_by": "Timothy Carambat"
+  }
+]
